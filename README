@@ -1,0 +1,5 @@
+vous trouverez danc ce projet git les notebook qu'on a travaillés avec concerant le projet de semestre "speech recognition using tensoflow"
+dans le notebook PFA on a transformé les audio en mfcc et les stockés dans un dataframe par la suite on à appliqué des differents lagorithmes
+de classification pour calculer leurs accuracy 
+dans le notebook kernel on a calculer l'accuracy et la predictions des audio Test avec Tflearn qui est un algorithme tensorflow
+de deep neural network 
